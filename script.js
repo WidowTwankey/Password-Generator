@@ -88,14 +88,6 @@ var upperCasedCharacters = [
   'Z'
 ];
 
-/*
-function getRandomItem(arr) {
-  const randomIndex = Math.floor(Math.random() * lowerCasedCharacters.length);
-  const item = lowerCasedCharacters[randomIndex];
-  return item;
-}
-*/
-
 // Function to prompt user for password options
 let chosenLength = 0;
 let lowCase = true;
